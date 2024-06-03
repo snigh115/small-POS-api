@@ -1,0 +1,8 @@
+.vscode/ 
+.vscode/*
+
+Migrations
+obj
+bin
+Debug
+
